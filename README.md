@@ -4,3 +4,4 @@
 </p>
 
 >## This repo present a java program for managing a pharmacy using OOP 
+>## preferences : Use Intellij IDEA for runnig this project
